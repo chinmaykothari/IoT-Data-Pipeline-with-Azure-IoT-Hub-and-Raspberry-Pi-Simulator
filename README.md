@@ -33,6 +33,18 @@ Download the telemetry data in CSV format and create visualizations using line a
 [Optional] Run Stream Analytics with New IoT Devices
 
 Test the Stream Analytics job with additional IoT devices for expanded analysis.
+How to Run
+Prerequisites:
+
+Microsoft Azure account.
+Basic knowledge of IoT and cloud services.
+Run the Project:
+
+Follow the step-by-step instructions outlined in the README to replicate the IoT setup and data pipeline.
+Visualize the Data:
+
+Use Microsoft Excel to create line and area charts from the telemetry data.
+
 ![Screenshot 2024-09-29 at 10 40 55 AM](https://github.com/user-attachments/assets/cdc489e9-08b6-4deb-be6c-0d2937d0890f)
 ![Screenshot 2024-09-29 at 10 40 43 AM](https://github.com/user-attachments/assets/ef8bef7a-a4fe-4f0e-a294-2c9a6d5df301)
 ![Screenshot 2024-09-29 at 10 39 01 AM](https://github.com/user-attachments/assets/3bae8754-3a7b-453e-a5f1-1753ffe03dea)
