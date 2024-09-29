@@ -2,13 +2,14 @@
 Project Overview
 This project demonstrates how to create an IoT data pipeline using Azure services and a Raspberry Pi web simulator to send telemetry data (temperature and humidity). The telemetry data is stored in an Azure Cloud storage account and analyzed using Microsoft Excel with line and area charts. Additionally, a Stream Analytics job is used to fetch the telemetry data in CSV format.
 
-Features
+# Features
 Azure IoT Hub Setup: Create and configure an IoT Hub in Azure to handle telemetry data.
 IoT Device Registration: Register an IoT device and connect it to a Raspberry Pi web simulator.
 Cloud Storage Account Creation: Set up an Azure Cloud storage account to store the telemetry data.
 Stream Analytics Job: Use a Stream Analytics job to stream and fetch telemetry data in a CSV file format.
 Data Visualization: Visualize the collected data using line and area charts in Microsoft Excel.
-Steps Covered
+
+# Steps Covered
 Create an Azure Cloud Account
 
 Set up a free-tier Microsoft Azure account (if not already available).
@@ -33,8 +34,8 @@ Download the telemetry data in CSV format and create visualizations using line a
 [Optional] Run Stream Analytics with New IoT Devices
 
 Test the Stream Analytics job with additional IoT devices for expanded analysis.
-How to Run
-Prerequisites:
+# How to Run
+# Prerequisites:
 
 Microsoft Azure account.
 Basic knowledge of IoT and cloud services.
@@ -48,5 +49,6 @@ Use Microsoft Excel to create line and area charts from the telemetry data.
 ![Screenshot 2024-09-29 at 10 40 55 AM](https://github.com/user-attachments/assets/cdc489e9-08b6-4deb-be6c-0d2937d0890f)
 ![Screenshot 2024-09-29 at 10 40 43 AM](https://github.com/user-attachments/assets/ef8bef7a-a4fe-4f0e-a294-2c9a6d5df301)
 ![Screenshot 2024-09-29 at 10 39 01 AM](https://github.com/user-attachments/assets/3bae8754-3a7b-453e-a5f1-1753ffe03dea)
+![Screenshot 2024-09-29 at 10 45 34 AM](https://github.com/user-attachments/assets/e6c178b6-fd1c-4977-a2ea-449cabf6b8af)
 
 
