@@ -48,10 +48,13 @@ Use Microsoft Excel to create line and area charts from the telemetry data.
 
 # course details:
 https://www.coursera.org/programs/socse-cse-btech-artificial-intelligence-and-machine-learning-cnbec/projects/getting-started-with-azure-iot-hub
+![Screenshot 2024-09-29 at 10 52 45 AM](https://github.com/user-attachments/assets/4fd57b8b-40cf-457c-b2f8-d571be6084b2)
+![Screenshot 2024-09-29 at 10 52 35 AM](https://github.com/user-attachments/assets/fd508653-61d5-412a-b9f3-5297ea2fbb37)
+![Screenshot 2024-09-29 at 10 52 28 AM](https://github.com/user-attachments/assets/57218010-40f5-4850-ba6b-fd0763e6b39c)
+![Screenshot 2024-09-29 at 10 52 12 AM](https://github.com/user-attachments/assets/854f7f67-cc30-4da5-86e1-bb924d76c329)
+![Screenshot 2024-09-29 at 10 52 05 AM](https://github.com/user-attachments/assets/8440e5ff-a6f1-4fc3-aaed-4620f3881e10)
+![Screenshot 2024-09-29 at 10 51 44 AM](https://github.com/user-attachments/assets/70c7167d-01d3-427f-a5fa-2d1feb3fc2f8)
 
-![Screenshot 2024-09-29 at 10 40 55 AM](https://github.com/user-attachments/assets/cdc489e9-08b6-4deb-be6c-0d2937d0890f)
-![Screenshot 2024-09-29 at 10 40 43 AM](https://github.com/user-attachments/assets/ef8bef7a-a4fe-4f0e-a294-2c9a6d5df301)
-![Screenshot 2024-09-29 at 10 39 01 AM](https://github.com/user-attachments/assets/3bae8754-3a7b-453e-a5f1-1753ffe03dea)
-![Screenshot 2024-09-29 at 10 45 34 AM](https://github.com/user-attachments/assets/e6c178b6-fd1c-4977-a2ea-449cabf6b8af)
+
 
 
